@@ -1,1 +1,1 @@
-http://cpshs.nicewhite.xyz:6067/
+http://cpshs.nicewhite.xyz:6067
